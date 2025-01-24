@@ -1,0 +1,1 @@
+This repository contains a simple Java program that demonstrates an ArrayIndexOutOfBoundsException and its solution. The `UncommonErrorExample.java` file shows the code that produces the exception. The `UncommonErrorExampleSolution.java` file provides an improved version with proper exception handling.
